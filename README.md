@@ -4,6 +4,7 @@
 I’m a Software Engineering student at the University of Waterloo. 
 I'm currently interning on the AWS Aurora Engine team and will be joining Meta in the Fall. 
 
+I'm looking for Summer 2026 internship opportunities! 
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sdlarkin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:daniel.larkin@uwaterloo.ca)
